@@ -1,0 +1,14 @@
+# 環境変数・機密情報
+.env
+*.key
+secret.json
+config.local.json
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# エディタ
+.vscode/
+.idea/
